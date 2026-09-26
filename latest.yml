@@ -1,8 +1,8 @@
-version: 0.11.1
+version: 0.11.2
 files:
-  - url: Yuna Setup 0.11.1.exe
-    sha512: lehFnTbbKfSWKzkSFHXducNMIwyZEBTnA7s4LJDb2nhXt8c8+DVLQNVzhD3s8CimPajEHHhzMi29OtoFaYSbmg==
-    size: 98306545
-path: Yuna Setup 0.11.1.exe
-sha512: lehFnTbbKfSWKzkSFHXducNMIwyZEBTnA7s4LJDb2nhXt8c8+DVLQNVzhD3s8CimPajEHHhzMi29OtoFaYSbmg==
-releaseDate: '2026-09-26T03:37:31.447Z'
+  - url: Yuna Setup 0.11.2.exe
+    sha512: 759vVWMHaXEErOjKcBAk+EZhrUv/3sNH7kzhB4zSbaUvWNDxiIx2+ATccty75ApQJfPi6A43x/i/U7U6KE0/6Q==
+    size: 98307691
+path: Yuna Setup 0.11.2.exe
+sha512: 759vVWMHaXEErOjKcBAk+EZhrUv/3sNH7kzhB4zSbaUvWNDxiIx2+ATccty75ApQJfPi6A43x/i/U7U6KE0/6Q==
+releaseDate: '2026-09-26T03:42:47.987Z'
